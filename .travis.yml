@@ -8,7 +8,6 @@ build_environment: ubuntu1304
 rvm:
   - 1.9.3
 
-
 env:
   - DB=postgres BUILD_TYPE=other
   - DB=mysql BUILD_TYPE=other
