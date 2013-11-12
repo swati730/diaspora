@@ -4,6 +4,7 @@ branches:
     - 'develop'
 
 language: ruby
+build_environment: ubuntu1304
 rvm:
   - 1.9.3
 
